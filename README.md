@@ -72,20 +72,39 @@ fun_fact: I enjoy turning complex problems into simple solutions
 ---
 
 ## 🚀 Featured Projects
-
+ 
 <div align="center">
-
-<a href="https://github.com/abhishek3012-ab/jenkins-cicd-pipeline-examples">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek3012-ab&repo=jenkins-cicd-pipeline-examples&theme=tokyonight&hide_border=true" alt="jenkins-cicd-pipeline-examples" />
-</a>
-<a href="https://github.com/abhishek3012-ab/terraform-real-world-examples">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek3012-ab&repo=terraform-real-world-examples&theme=tokyonight&hide_border=true" alt="terraform-real-world-examples" />
-</a>
-
-<a href="https://github.com/abhishek3012-ab/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek3012-ab&repo=portfolio&theme=tokyonight&hide_border=true" alt="portfolio" />
-</a>
-
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>⚙️ Jenkins CI/CD<br/>Pipeline Examples</h3>
+      <p>Real-world CI/CD pipelines built with Jenkins, from build and test to Docker and AWS deployment.</p>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+      <br/><br/>
+      <a href="https://github.com/abhishek3012-ab/jenkins-cicd-pipeline-examples"><img src="https://img.shields.io/badge/View_Repo-%E2%86%92-00f7ff?style=for-the-badge&labelColor=203a43" alt="View repo" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🏗️ Terraform<br/>Real-World Examples</h3>
+      <p>Infrastructure as Code examples for provisioning cloud resources the way production teams do it.</p>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/IaC-2c5364?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/abhishek3012-ab/terraform-real-world-examples"><img src="https://img.shields.io/badge/View_Repo-%E2%86%92-00f7ff?style=for-the-badge&labelColor=203a43" alt="View repo" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>💼 Portfolio<br/>All My Projects</h3>
+      <p>One place for everything I build: DevOps, cloud and development projects with details.</p>
+      <img src="https://img.shields.io/badge/Projects-2c5364?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/DevOps-0f2027?style=flat-square" />
+      <img src="https://img.shields.io/badge/Cloud-203a43?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/abhishek3012-ab/portfolio"><img src="https://img.shields.io/badge/View_Repo-%E2%86%92-00f7ff?style=for-the-badge&labelColor=203a43" alt="View repo" /></a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---

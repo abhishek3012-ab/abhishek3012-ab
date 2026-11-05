@@ -28,7 +28,9 @@
 ---
 
 ## 👨‍💻 About Me
-
+ 
+> Building and automating cloud infrastructure with CI/CD, containers and Infrastructure as Code.
+ 
 ```yaml
 name: Abhishek Birajdar
 role: DevOps Engineer (in the making)
@@ -38,13 +40,11 @@ currently_learning: Kubernetes · AWS · Terraform · GitHub Actions · Linux
 looking_for: collaboration on Cloud, DevOps & Open-Source projects
 fun_fact: I enjoy turning complex problems into simple solutions
 ```
-
+ 
 - 🔭 Working on [Real-World DevOps & AWS Projects](https://github.com/abhishek3012-ab/jenkins-cicd-pipeline-examples)
-- 🌱 Learning **Kubernetes, AWS, Docker, Jenkins, Terraform, Ansible, GitHub Actions & Linux**
 - 👯 Open to collaborate on [Cloud Computing, DevOps, CI/CD & Open-Source Projects](https://github.com/abhishek3012-ab/terraform-real-world-examples)
 - 🤝 Looking for help with **Advanced AWS, Kubernetes & Production-Level DevOps Projects**
 - 💬 Ask me about **AWS, DevOps, Linux, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD, Git & GitHub**
-- 📫 Reach me at **abhishekbirajdar940@gmail.com**
 
 ---
 

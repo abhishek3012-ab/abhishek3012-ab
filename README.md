@@ -117,10 +117,6 @@ flowchart LR
 <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
 <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=abhishek3012-ab&theme=tokyonight&hide_border=true" alt="streak" />
-
 </div>
 
 ---

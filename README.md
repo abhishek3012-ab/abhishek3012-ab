@@ -16,7 +16,7 @@
 <br/><br/>
 
 <a href="https://linkedin.com/in/mr-abhishek-birajdar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:abhishekbirajdar940@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhishekbirajdar940@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://instagram.com/mr_abhie_143"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/abhishek3012-ab/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 <a href="https://drive.google.com/file/d/1LhxOYWvMULrACw4txssQNDkLokgm1M4o/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>

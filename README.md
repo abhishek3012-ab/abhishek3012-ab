@@ -95,13 +95,13 @@ fun_fact: I enjoy turning complex problems into simple solutions
       <a href="https://github.com/abhishek3012-ab/terraform-real-world-examples"><img src="https://img.shields.io/badge/View_Repo-%E2%86%92-00f7ff?style=for-the-badge&labelColor=203a43" alt="View repo" /></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>💼 Portfolio<br/>All My Projects</h3>
-      <p>One place for everything I build: DevOps, cloud and development projects with details.</p>
-      <img src="https://img.shields.io/badge/Projects-2c5364?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/DevOps-0f2027?style=flat-square" />
-      <img src="https://img.shields.io/badge/Cloud-203a43?style=flat-square" />
+      <h3>🤖 Ansible<br/>Real-World Playbooks</h3>
+      <p>Configuration management and automation playbooks for provisioning and managing servers at scale.</p>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Automation-2c5364?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/abhishek3012-ab/portfolio"><img src="https://img.shields.io/badge/View_Repo-%E2%86%92-00f7ff?style=for-the-badge&labelColor=203a43" alt="View repo" /></a>
+      <a href="https://github.com/abhishek3012-ab/ansible-real-world-playbooks"><img src="https://img.shields.io/badge/View_Repo-%E2%86%92-00f7ff?style=for-the-badge&labelColor=203a43" alt="View repo" /></a>
     </td>
   </tr>
 </table>
